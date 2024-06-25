@@ -1,0 +1,44 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Pessoas",
+      "tag": "#Pessoas",
+      "pattern": ""
+    },
+    {
+      "folder": "Tutoriais",
+      "tag": "#Tutorial",
+      "pattern": ""
+    },
+    {
+      "folder": "DIário/2024/Junho",
+      "tag": "#Junho",
+      "pattern": ""
+    },
+    {
+      "folder": "Reuniões",
+      "tag": "#Reuniões",
+      "pattern": ""
+    },
+    {
+      "folder": "Portais",
+      "tag": "#Portais",
+      "pattern": ""
+    },
+    {
+      "folder": "Ferramentas",
+      "tag": "#Ferramentas",
+      "pattern": ""
+    },
+    {
+      "folder": "Projetos",
+      "tag": "#Projetos",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": []
+}

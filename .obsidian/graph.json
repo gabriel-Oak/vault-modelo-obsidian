@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Importante",
+      "color": {
+        "a": 1,
+        "rgb": 16098048
+      }
+    },
+    {
+      "query": "tag:#Diário",
+      "color": {
+        "a": 1,
+        "rgb": 64200
+      }
+    },
+    {
+      "query": "tag:#Reuniões  ",
+      "color": {
+        "a": 1,
+        "rgb": 9081599
+      }
+    },
+    {
+      "query": "tag:#Ferramentas  ",
+      "color": {
+        "a": 1,
+        "rgb": 8494215
+      }
+    },
+    {
+      "query": "tag:#Pessoas  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#Tutorial  ",
+      "color": {
+        "a": 1,
+        "rgb": 33274
+      }
+    },
+    {
+      "query": "tag:#Indice",
+      "color": {
+        "a": 1,
+        "rgb": 9634037
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.10448404947917,
+  "lineSizeMultiplier": 1.18184407552083,
+  "collapse-forces": true,
+  "centerStrength": 0.600423177083333,
+  "repelStrength": 12.0442708333333,
+  "linkStrength": 1,
+  "linkDistance": 122,
+  "scale": 0.44266328681282546,
+  "close": false
+}
